@@ -1,8 +1,8 @@
-# SftpWrapper
+= SftpWrapper
 
-TODO: Write a gem description
+Wrap Net::SFTP calls with exception handling, block yields, and a persistent connection
 
-## Installation
+== Installation
 
 Add this line to your application's Gemfile:
 
@@ -16,11 +16,11 @@ Or install it yourself as:
 
     $ gem install sftp_wrapper
 
-## Usage
+== Usage
 
 TODO: Write usage instructions here
 
-## Contributing
+== Contributing
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
